@@ -1,1 +1,1 @@
-# NaturalRemediesApi
+# NaturalRemediesAPI
