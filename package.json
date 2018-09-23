@@ -1,0 +1,20 @@
+{
+  "name": "notable",
+  "version": "1.0.0",
+  "description": "An API for natural remedies designed for mainting good health.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "SDCGMU",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongo-tools": "^1.0.0",
+    "mongodb": "^2.2.33"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
